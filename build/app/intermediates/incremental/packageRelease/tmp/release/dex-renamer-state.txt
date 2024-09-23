@@ -1,0 +1,4 @@
+#Mon Sep 23 18:56:25 EDT 2024
+base.0=C\:\\Users\\asus\\Desktop\\Flutter\\Newfolder\\class_activity_group_challenge\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
